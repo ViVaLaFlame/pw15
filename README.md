@@ -9,11 +9,11 @@
 
       
 Методы:
-    insert(key, value)	Вставляет элемент	tree.insert(10, "A")
-    search(key)	Ищет элемент	tree.search(10) → "A"
-    delete(key)	Удаляет элемент	tree.delete(10)
-    height()	Возвращает высоту	tree.height() → 3
-    is_balanced()	Проверяет баланс	tree.is_balanced() → True
+    \ninsert(key, value)	Вставляет элемент	tree.insert(10, "A")
+    \nsearch(key)	Ищет элемент	tree.search(10) → "A"
+    \ndelete(key)	Удаляет элемент	tree.delete(10)
+    \nheight()	Возвращает высоту	tree.height() → 3
+    \nis_balanced()	Проверяет баланс	tree.is_balanced() → True
 
 Использование:
 
