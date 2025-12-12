@@ -8,12 +8,12 @@
       .venv\Scripts\activate     # Windows
 
       
-Методы:
-    \ninsert(key, value)	Вставляет элемент	tree.insert(10, "A")
-    \nsearch(key)	Ищет элемент	tree.search(10) → "A"
-    \ndelete(key)	Удаляет элемент	tree.delete(10)
-    \nheight()	Возвращает высоту	tree.height() → 3
-    \nis_balanced()	Проверяет баланс	tree.is_balanced() → True
+Методы:  
+    insert(key, value)	Вставляет элемент  
+    search(key)	Ищет элемент  
+    delete(key)	Удаляет элемент  
+    height()	Возвращает высоту  
+    is_balanced()	Проверяет баланс  
 
 Использование:
 
